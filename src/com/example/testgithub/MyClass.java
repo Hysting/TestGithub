@@ -8,6 +8,10 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 
+import java.util.List;
+import java.util.Map;
+import java.util.Objects;
+
 public class MyClass {
 	int b = 1;
 	int a = 100;
@@ -20,6 +24,7 @@ public class MyClass {
 		 String color = "blue";
 		 int layout;
 		// TODO Auto-generated constructor stub
+        List<Map<String, Object>> data;
         class MyThread extends Thread {
             boolean flag;
             int count;
