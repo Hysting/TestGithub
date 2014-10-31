@@ -16,6 +16,8 @@ public class MyClass {
 	public MyClass() {
 		 Context context;
 		 List<Map<String, Object>> data;
+		 int age = 22;
+		 String color = "blue";
 		 int layout;
 		// TODO Auto-generated constructor stub
         class MyThread extends Thread {
