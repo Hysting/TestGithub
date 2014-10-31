@@ -23,8 +23,6 @@ public class MyClass {
 		 int age = 22;
 		 String color = "blue";
 		 int layout;
-		// TODO Auto-generated constructor stub
-        List<Map<String, Object>> data;
         class MyThread extends Thread {
             boolean flag;
             int count;
