@@ -1,7 +1,7 @@
 package com.example.testgithub;
 
 public class MyClass {
-
+	int b = 1;
 	int a = 100;
     int c = 100;
 	public MyClass() {
